@@ -116,10 +116,7 @@ venv.bak/
 .extract
 .service
 *.iml
-frontend/*.iml
-service/*.iml
-pasedbui/*.iml
-pasedbms/*.iml
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -139,7 +136,7 @@ hs_err_pid*
 # Tomcat autobuild files
 war-*
 
-/target
+client/target
 .extract
 .service
 .settings

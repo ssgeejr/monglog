@@ -4,7 +4,7 @@ package us.analup.monglog;
  * Hello world!
  *
  */
-public class App 
+public class NotificationClient 
 {
     public static void main( String[] args )
     {
